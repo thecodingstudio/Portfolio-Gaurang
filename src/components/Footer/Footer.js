@@ -30,13 +30,13 @@ const Footer = () => {
                         <div className="f-content">
                             
                             <div className="f-icons">
-                                <a href="https://instagram.com/_.mangukiya_.12?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer">
+                                <a href="https://instagram.com/jigs_patel_0412?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer">
                                     <Insta color="white" size={"3rem"} />
                                 </a>
-                                <a href="https://www.facebook.com/avin.mangukiya" target="_blank" rel="noreferrer">
+                                <a href="https://www.facebook.com/profile.php?id=100008561471284" target="_blank" rel="noreferrer">
                                     <Facebook color="white" size={"3rem"} />
                                 </a>
-                                <a href="https://github.com/avin1208" target="_blank" rel="noreferrer">
+                                <a href="https://github.com/gaurang-tcs" target="_blank" rel="noreferrer">
                                     <Gitub color="white" size={"3rem"} />
                                 </a>
                             </div>
