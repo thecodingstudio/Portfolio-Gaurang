@@ -68,7 +68,7 @@ const Portfolio = () => {
                     </div>
                     <div data-aos="fade-left" className="project2">
                         <div className="image">
-                            <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1654578146/monster_1_zguyse.png" alt="icon" />
+                            <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1655114541/7_1_jiozd9.png" alt="icon" />
                         </div>
                         <div className="project-part">
                             <div className="project-title">
@@ -97,7 +97,7 @@ const Portfolio = () => {
                             </a>
                         </div>
                         <div className="imagee">
-                            <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1654577596/cloth_1_desjqy.png" alt="icon" />
+                            <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1655114535/8_1_w9oagm.png" alt="icon" />
                         </div>
                     </div>
                 </div>
