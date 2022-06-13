@@ -59,7 +59,7 @@ const Contact = () => {
                                 </div>
                                 <div className="left-title">
                                     <span className='studio'>The Coding Studio</span> <br /> 
-                                    Surat, Gujarat, India.
+                                    <span>Surat, Gujarat, India.</span>
                                 </div>
                             </div>
                             <div data-aos="fade-up" data-aos-delay="200" className="left">
