@@ -44,9 +44,18 @@ const Portfolio = () => {
                                 by creating a dummy Domino's web app, I create different <br />
                                 types of animation which is important to use in our applications.
                             </div>
-                            <a href="https://gaurang-tcs.github.io/animation-live/" target="_blank" rel="noreferrer">
-                                View Project
-                            </a>
+                            <div className="project-demo-main">
+                                <div className="project-demo">
+                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                        View Demo
+                                    </a>
+                                </div>
+                                <div className="pro-demo">
+                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                        View Github
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div data-aos="fade-left" className="project1">
@@ -58,9 +67,18 @@ const Portfolio = () => {
                                 A Crwn-Clothing app which is use for Online Shopping <br />
                                 like Men-Women Clothes , Hats, Shoes And Also Jackets.
                             </div>
-                            <a href="https://crwn-cloth-web.herokuapp.com/" target="_blank" rel="noreferrer">
-                                View Project
-                            </a>
+                            <div className="project-demo-main">
+                                <div className="project-demo">
+                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                        View Demo
+                                    </a>
+                                </div>
+                                <div className="pro-demo">
+                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                        View Github
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                         <div className="imagee">
                             <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1654577596/cloth_1_desjqy.png" alt="icon" />
@@ -75,12 +93,21 @@ const Portfolio = () => {
                                 Datta Able
                             </div>
                             <div className="descrption">
-                            Datta able is a sales website which are consist of <br />
-                            daily,monthly,yearly sales. 
+                                Datta able is a sales website which are consist of <br />
+                                daily,monthly,yearly sales.
                             </div>
-                            <a href="https://gaurang-tcs.github.io/dattaable-live/" target="_blank" rel="noreferrer">
-                                View Project
-                            </a>
+                            <div className="project-demo-main">
+                                <div className="project-demo">
+                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                        View Demo
+                                    </a>
+                                </div>
+                                <div className="pro-demo">
+                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                        View Github
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div data-aos="fade-left" className="project1">
@@ -92,9 +119,18 @@ const Portfolio = () => {
                                 Instacart is a personal shopping service available online <br />
                                 and through Apple and Android devices. <br />
                             </div>
-                            <a href="https://gaurang-tcs.github.io/instacart-clone/" target="_blank" rel="noreferrer">
-                                View Project
-                            </a>
+                            <div className="project-demo-main">
+                                <div className="project-demo">
+                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                        View Demo
+                                    </a>
+                                </div>
+                                <div className="pro-demo">
+                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                        View Github
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                         <div className="imagee">
                             <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1655114535/8_1_w9oagm.png" alt="icon" />
