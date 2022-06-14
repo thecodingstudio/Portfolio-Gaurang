@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Gaurang-PortFolio/static/css/main.48f83413.css",
-    "main.js": "/Gaurang-PortFolio/static/js/main.a7e2484d.js",
-    "static/js/787.8d6e9df1.chunk.js": "/Gaurang-PortFolio/static/js/787.8d6e9df1.chunk.js",
-    "static/media/gaurng.jpg": "/Gaurang-PortFolio/static/media/gaurng.f0f1d0cb5a9a47db0054.jpg",
-    "static/media/GaResume.pdf": "/Gaurang-PortFolio/static/media/GaResume.306088106669cebe88d9.pdf",
-    "static/media/thumbup.png": "/Gaurang-PortFolio/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/gaurang.jpg": "/Gaurang-PortFolio/static/media/gaurang.b673efb7db04a861bae2.jpg",
-    "static/media/crown.png": "/Gaurang-PortFolio/static/media/crown.dbe416beae9b49b842ab.png",
-    "index.html": "/Gaurang-PortFolio/index.html",
-    "main.48f83413.css.map": "/Gaurang-PortFolio/static/css/main.48f83413.css.map",
-    "main.a7e2484d.js.map": "/Gaurang-PortFolio/static/js/main.a7e2484d.js.map",
-    "787.8d6e9df1.chunk.js.map": "/Gaurang-PortFolio/static/js/787.8d6e9df1.chunk.js.map"
+    "main.css": "/Portfolio-Gaurang/static/css/main.48f83413.css",
+    "main.js": "/Portfolio-Gaurang/static/js/main.8409954b.js",
+    "static/js/787.8d6e9df1.chunk.js": "/Portfolio-Gaurang/static/js/787.8d6e9df1.chunk.js",
+    "static/media/gaurng.jpg": "/Portfolio-Gaurang/static/media/gaurng.f0f1d0cb5a9a47db0054.jpg",
+    "static/media/GaResume.pdf": "/Portfolio-Gaurang/static/media/GaResume.306088106669cebe88d9.pdf",
+    "static/media/thumbup.png": "/Portfolio-Gaurang/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/gaurang.jpg": "/Portfolio-Gaurang/static/media/gaurang.b673efb7db04a861bae2.jpg",
+    "static/media/crown.png": "/Portfolio-Gaurang/static/media/crown.dbe416beae9b49b842ab.png",
+    "index.html": "/Portfolio-Gaurang/index.html",
+    "main.48f83413.css.map": "/Portfolio-Gaurang/static/css/main.48f83413.css.map",
+    "main.8409954b.js.map": "/Portfolio-Gaurang/static/js/main.8409954b.js.map",
+    "787.8d6e9df1.chunk.js.map": "/Portfolio-Gaurang/static/js/787.8d6e9df1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48f83413.css",
-    "static/js/main.a7e2484d.js"
+    "static/js/main.8409954b.js"
   ]
 }
