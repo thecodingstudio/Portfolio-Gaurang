@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Gaurang-PortFolio/static/css/main.c9e3f7fb.css",
+    "main.css": "/Gaurang-PortFolio/static/css/main.624e1363.css",
     "main.js": "/Gaurang-PortFolio/static/js/main.c5ebe5f8.js",
     "static/js/787.8d6e9df1.chunk.js": "/Gaurang-PortFolio/static/js/787.8d6e9df1.chunk.js",
     "static/media/g.jpg": "/Gaurang-PortFolio/static/media/g.08893f5dd1521783ef58.jpg",
@@ -9,12 +9,12 @@
     "static/media/gaurang.jpg": "/Gaurang-PortFolio/static/media/gaurang.b673efb7db04a861bae2.jpg",
     "static/media/crown.png": "/Gaurang-PortFolio/static/media/crown.dbe416beae9b49b842ab.png",
     "index.html": "/Gaurang-PortFolio/index.html",
-    "main.c9e3f7fb.css.map": "/Gaurang-PortFolio/static/css/main.c9e3f7fb.css.map",
+    "main.624e1363.css.map": "/Gaurang-PortFolio/static/css/main.624e1363.css.map",
     "main.c5ebe5f8.js.map": "/Gaurang-PortFolio/static/js/main.c5ebe5f8.js.map",
     "787.8d6e9df1.chunk.js.map": "/Gaurang-PortFolio/static/js/787.8d6e9df1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9e3f7fb.css",
+    "static/css/main.624e1363.css",
     "static/js/main.c5ebe5f8.js"
   ]
 }
