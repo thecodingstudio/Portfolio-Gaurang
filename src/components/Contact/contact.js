@@ -76,7 +76,7 @@ const Contact = () => {
                                 <input data-aos="fade-up" type="text" placeholder="Full Name" name="user_name" required />
 
                                 <div className='abc'>
-                                    <input data-aos="fade-up" data-aos-delay="100" type="email" placeholder="Email" name="uesr_email" required />
+                                    <input data-aos="fade-up" data-aos-delay="100" type="email" placeholder="Email" name="user_email" required />
                                     <input data-aos="fade-up" data-aos-delay="200" type="text" placeholder="Phone Number" name="user_number" pattern="\d{10}" maxlength="10" required />
                                 </div>
 
