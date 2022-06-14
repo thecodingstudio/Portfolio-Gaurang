@@ -4,8 +4,6 @@ import "./Navbar.css";
 
 import { Link } from "react-scroll";
 
-
-
 const Navbar = () => {
 
     return (
@@ -17,7 +15,7 @@ const Navbar = () => {
                 <div className="n-list">
                     <ul style={{ listStyleType: "none" }}>
                         <li>
-                            <Link activeClass="active" to="Navbar" spy={true} smooth={true}>
+                            <Link activeClass="active" to="Intro" spy={true} smooth={true}>
                                 Home
                             </Link>
                         </li>
@@ -27,7 +25,7 @@ const Navbar = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="services" spy={true} smooth={true}>
+                            <Link to="services-main" className="Serv" smooth={true}>
                                 Services
                             </Link>
                         </li>

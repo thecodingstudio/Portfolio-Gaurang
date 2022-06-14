@@ -7,7 +7,7 @@ import "./intro.css";
 
 // import Vector2 from "../../img/Vector2.png";
 
-import G from "../../img/g.jpg";
+import gaurng from "../../img/gaurng.jpg";
 
 // import glassesimoji from "../../img/glassesimoji.png";
 
@@ -81,7 +81,7 @@ const Intro = () => {
             <div data-aos="fade-left" className="i-right">
                
              
-                <img src={G} alt="" className="avinm"/>
+                <img src={gaurng} alt="" className="avinm"/>
              
 
                 <motion.div

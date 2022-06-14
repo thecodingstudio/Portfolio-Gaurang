@@ -75,7 +75,7 @@ const Portfolio = () => {
                                 Datta Able
                             </div>
                             <div className="descrption">
-                            datta able is a sales website which are consist of <br />
+                            Datta able is a sales website which are consist of <br />
                             daily,monthly,yearly sales. 
                             </div>
                             <a href="https://gaurang-tcs.github.io/dattaable-live/" target="_blank" rel="noreferrer">
