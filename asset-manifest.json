@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Gaurang-PortFolio/static/css/main.624e1363.css",
-    "main.js": "/Gaurang-PortFolio/static/js/main.c5ebe5f8.js",
+    "main.css": "/Gaurang-PortFolio/static/css/main.1771316e.css",
+    "main.js": "/Gaurang-PortFolio/static/js/main.d1f3c896.js",
     "static/js/787.8d6e9df1.chunk.js": "/Gaurang-PortFolio/static/js/787.8d6e9df1.chunk.js",
-    "static/media/g.jpg": "/Gaurang-PortFolio/static/media/g.08893f5dd1521783ef58.jpg",
+    "static/media/gaurng.jpg": "/Gaurang-PortFolio/static/media/gaurng.f0f1d0cb5a9a47db0054.jpg",
     "static/media/GaResume.pdf": "/Gaurang-PortFolio/static/media/GaResume.306088106669cebe88d9.pdf",
     "static/media/thumbup.png": "/Gaurang-PortFolio/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/gaurang.jpg": "/Gaurang-PortFolio/static/media/gaurang.b673efb7db04a861bae2.jpg",
     "static/media/crown.png": "/Gaurang-PortFolio/static/media/crown.dbe416beae9b49b842ab.png",
     "index.html": "/Gaurang-PortFolio/index.html",
-    "main.624e1363.css.map": "/Gaurang-PortFolio/static/css/main.624e1363.css.map",
-    "main.c5ebe5f8.js.map": "/Gaurang-PortFolio/static/js/main.c5ebe5f8.js.map",
+    "main.1771316e.css.map": "/Gaurang-PortFolio/static/css/main.1771316e.css.map",
+    "main.d1f3c896.js.map": "/Gaurang-PortFolio/static/js/main.d1f3c896.js.map",
     "787.8d6e9df1.chunk.js.map": "/Gaurang-PortFolio/static/js/787.8d6e9df1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.624e1363.css",
-    "static/js/main.c5ebe5f8.js"
+    "static/css/main.1771316e.css",
+    "static/js/main.d1f3c896.js"
   ]
 }
