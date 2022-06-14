@@ -4,7 +4,7 @@ import './aboutus.css';
 
 import gaurang from '../../img/gaurang.jpg';
 
-import GResume from './GResume.pdf';
+import GaResume from './GaResume.pdf';
 
 import Aos from 'aos';
 
@@ -56,7 +56,7 @@ const AboutUs = () => {
                     </div>
                 </div>
                 <div data-aos="fade-up" className='button-cv'>
-                    <a href={GResume} target="_blank" rel="noreferrer">
+                    <a href={GaResume} target="_blank" rel="noreferrer">
                         <button className="button s-button">Download CV</button>
                     </a>
                 </div>
