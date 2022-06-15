@@ -46,12 +46,12 @@ const Portfolio = () => {
                             </div>
                             <div className="project-demo-main">
                                 <div className="project-demo">
-                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                    <a href="https://gaurang-tcs.github.io/animation-live/" target="_blank" rel="noreferrer">
                                         View Demo
                                     </a>
                                 </div>
                                 <div className="pro-demo">
-                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                    <a href="https://github.com/gaurang-tcs/Animation" target="_blank" rel="noreferrer">
                                         View Github
                                     </a>
                                 </div>
@@ -69,12 +69,12 @@ const Portfolio = () => {
                             </div>
                             <div className="project-demo-main">
                                 <div className="project-demo">
-                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                    <a href="https://crwn-cloth-web.herokuapp.com/" target="_blank" rel="noreferrer">
                                         View Demo
                                     </a>
                                 </div>
                                 <div className="pro-demo">
-                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                    <a href="https://github.com/gaurang-tcs/crwn-clothing" target="_blank" rel="noreferrer">
                                         View Github
                                     </a>
                                 </div>
@@ -98,12 +98,12 @@ const Portfolio = () => {
                             </div>
                             <div className="project-demo-main">
                                 <div className="project-demo">
-                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                    <a href="https://gaurang-tcs.github.io/dattaable-live/" target="_blank" rel="noreferrer">
                                         View Demo
                                     </a>
                                 </div>
                                 <div className="pro-demo">
-                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                    <a href="https://github.com/gaurang-tcs/datta-able" target="_blank" rel="noreferrer">
                                         View Github
                                     </a>
                                 </div>
@@ -121,12 +121,12 @@ const Portfolio = () => {
                             </div>
                             <div className="project-demo-main">
                                 <div className="project-demo">
-                                    <a href="https://avin12-live.herokuapp.com/" target="_blank" rel="noreferrer">
+                                    <a href="https://gaurang-tcs.github.io/instacart-clone/" target="_blank" rel="noreferrer">
                                         View Demo
                                     </a>
                                 </div>
                                 <div className="pro-demo">
-                                    <a href="https://github.com/avin1208/crwn-clothing" target="_blank" rel="noreferrer">
+                                    <a href="https://github.com/gaurang-tcs/instaCart" target="_blank" rel="noreferrer">
                                         View Github
                                     </a>
                                 </div>
