@@ -11,9 +11,9 @@ const Navbar = () => {
     return (
         <div className="n-wrapper" id="Navbar">
             <div className="n-left">
-                <a href="/">
+                
                     <img src={Port} alt="" />
-                </a>
+              
                 <div className="n-name">Gaurang Patel</div>
             </div>
             <div className="n-right">
